@@ -1,0 +1,19 @@
+           Differrence Between Head and Header
+
+ Head==>The "head" element is a container for metadata such as;link,tittle,etc
+        and it is not displayed on the page.
+ The following element can go inside the <head> element:
+--<title>
+--<style>
+--<base>
+--<link>
+--<meta>
+--<Script>
+--<noscript>
+
+
+   Header==> The "header" tag is used within the body of the website and can be used multiple times 
+            if required e.g to determine the top of an article.A<header> element typically contains
+            one or more headings element(h1-h6).It can also contains logo or icon,authorship information.
+              The <header> element represents a container for introductory content or a set of navigational links.
+  

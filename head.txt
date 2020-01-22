@@ -1,0 +1,54 @@
+              Head,Body and Footer in html5
+Footer:
+   The HTML5 <footer> tag is used for defining the footer of an HTML document or section.Footers usually
+contain information such as the author of the document, copyright information, links to terms of use,
+privacy policy, etc.
+   Contact information within a <footer> tag should be marked up using the <address> tag.Although footers are
+typically located at the bottom of a document, this is not required (although it cannot be placed within a <header> or
+another <footer> element, and it cannot contain a <header> element).A document/section can have more than one footer.
+The <footer> tag was introduced in HTML 5.
+
+    Head:
+     The HTML <head> tag is used for indicating the head section of the HTML document.
+
+The head can contain other HTML tags that provide information about the document such as title, 
+description, keywords etc. You will often see the <title> tag, <meta> tag, the <script> tag, and the <style> tag 
+in the head of a typical HTML document.
+
+Most of this information is not displayed in the browser (although the title usually appears in the browser's title bar)
+but can be useful for the functionality of the page. The head tag is placed between the opening and closing
+ <html> </html> tags. 
+
+ Body:
+   The HTML <body> tag is used for indicating the main content section of the HTML document. 
+The body tag is placed between the </head> and the </html> tags.
+
+Note that the attributes for the body tag are no longer supported in HTML (these were previously 
+specified as deprecated in HTML 4.01). You should now use CSS for defining the presentation of 
+your document body. For example, see CSS background-color and CSS text-decoration.  
+
+
+
+                            Head,Body and Footer in html4
+    FOOTER:
+Footer element was introducein html5 therefore html4 doesn't have footer tag.
+
+
+    Head:
+
+  The HTML head tag is used for indicating the head section of the HTML document.
+
+The head can contain other HTML tags that provide information about the document such as title, 
+description, keywords etc. Most of this information is not displayed in the browser 
+(although the title usually appears in the browser's title bar) but can be useful for search engines etc. 
+The head tag is placed between the <html> and the <body> tags.  
+
+
+    Body:     
+     The HTML body tag is used for indicating the main content section of the HTML document. 
+     The body tag is placed between the </head> and the </html> tags.
+
+ Note that the attributes for the body tag are deprecated in HTML 4.01 and obsolete in HTML 5.
+ You should use CSS for defining the presentation of your document body. For example, 
+ see CSS background-color and CSS text-decoration.
+ 
